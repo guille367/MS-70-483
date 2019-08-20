@@ -1,0 +1,11 @@
+/home/gponce/70483/FirstProgram/obj/Debug/netcoreapp2.2/FirstProgram.csprojAssemblyReference.cache
+/home/gponce/70483/FirstProgram/obj/Debug/netcoreapp2.2/FirstProgram.csproj.CoreCompileInputs.cache
+/home/gponce/70483/FirstProgram/obj/Debug/netcoreapp2.2/FirstProgram.AssemblyInfoInputs.cache
+/home/gponce/70483/FirstProgram/obj/Debug/netcoreapp2.2/FirstProgram.AssemblyInfo.cs
+/home/gponce/70483/FirstProgram/bin/Debug/netcoreapp2.2/FirstProgram.deps.json
+/home/gponce/70483/FirstProgram/bin/Debug/netcoreapp2.2/FirstProgram.runtimeconfig.json
+/home/gponce/70483/FirstProgram/bin/Debug/netcoreapp2.2/FirstProgram.runtimeconfig.dev.json
+/home/gponce/70483/FirstProgram/bin/Debug/netcoreapp2.2/FirstProgram.dll
+/home/gponce/70483/FirstProgram/bin/Debug/netcoreapp2.2/FirstProgram.pdb
+/home/gponce/70483/FirstProgram/obj/Debug/netcoreapp2.2/FirstProgram.dll
+/home/gponce/70483/FirstProgram/obj/Debug/netcoreapp2.2/FirstProgram.pdb
