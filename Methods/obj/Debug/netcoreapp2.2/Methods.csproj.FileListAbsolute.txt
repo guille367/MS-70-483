@@ -1,0 +1,11 @@
+/home/elwis/Documents/proyectos/ms-70483/Methods/bin/Debug/netcoreapp2.2/Methods.deps.json
+/home/elwis/Documents/proyectos/ms-70483/Methods/bin/Debug/netcoreapp2.2/Methods.runtimeconfig.json
+/home/elwis/Documents/proyectos/ms-70483/Methods/bin/Debug/netcoreapp2.2/Methods.runtimeconfig.dev.json
+/home/elwis/Documents/proyectos/ms-70483/Methods/bin/Debug/netcoreapp2.2/Methods.dll
+/home/elwis/Documents/proyectos/ms-70483/Methods/bin/Debug/netcoreapp2.2/Methods.pdb
+/home/elwis/Documents/proyectos/ms-70483/Methods/obj/Debug/netcoreapp2.2/Methods.csprojAssemblyReference.cache
+/home/elwis/Documents/proyectos/ms-70483/Methods/obj/Debug/netcoreapp2.2/Methods.csproj.CoreCompileInputs.cache
+/home/elwis/Documents/proyectos/ms-70483/Methods/obj/Debug/netcoreapp2.2/Methods.AssemblyInfoInputs.cache
+/home/elwis/Documents/proyectos/ms-70483/Methods/obj/Debug/netcoreapp2.2/Methods.AssemblyInfo.cs
+/home/elwis/Documents/proyectos/ms-70483/Methods/obj/Debug/netcoreapp2.2/Methods.dll
+/home/elwis/Documents/proyectos/ms-70483/Methods/obj/Debug/netcoreapp2.2/Methods.pdb

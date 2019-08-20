@@ -1,0 +1,11 @@
+/home/elwis/Documents/proyectos/ms-70483/JumpStatements/bin/Debug/netcoreapp2.2/JumpStatements.deps.json
+/home/elwis/Documents/proyectos/ms-70483/JumpStatements/bin/Debug/netcoreapp2.2/JumpStatements.runtimeconfig.json
+/home/elwis/Documents/proyectos/ms-70483/JumpStatements/bin/Debug/netcoreapp2.2/JumpStatements.runtimeconfig.dev.json
+/home/elwis/Documents/proyectos/ms-70483/JumpStatements/bin/Debug/netcoreapp2.2/JumpStatements.dll
+/home/elwis/Documents/proyectos/ms-70483/JumpStatements/bin/Debug/netcoreapp2.2/JumpStatements.pdb
+/home/elwis/Documents/proyectos/ms-70483/JumpStatements/obj/Debug/netcoreapp2.2/JumpStatements.csprojAssemblyReference.cache
+/home/elwis/Documents/proyectos/ms-70483/JumpStatements/obj/Debug/netcoreapp2.2/JumpStatements.csproj.CoreCompileInputs.cache
+/home/elwis/Documents/proyectos/ms-70483/JumpStatements/obj/Debug/netcoreapp2.2/JumpStatements.AssemblyInfoInputs.cache
+/home/elwis/Documents/proyectos/ms-70483/JumpStatements/obj/Debug/netcoreapp2.2/JumpStatements.AssemblyInfo.cs
+/home/elwis/Documents/proyectos/ms-70483/JumpStatements/obj/Debug/netcoreapp2.2/JumpStatements.dll
+/home/elwis/Documents/proyectos/ms-70483/JumpStatements/obj/Debug/netcoreapp2.2/JumpStatements.pdb
